@@ -1,6 +1,6 @@
 # Rock Paper Scissors 🎮
 
-A simple console-based game built with C++.
+A simple console-based game built with C++
 
 ## 🚀 Features
 - Player vs Computer mode
