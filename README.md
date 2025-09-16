@@ -20,7 +20,7 @@ A simple console-based game built with C++.
 - 🟡 **Yellow** = Draw 
 
 ### End of Game
-- **Final score summary** – displays overall results at the end of the game  
+- **Final score summary** – displays overall results at the end of the game and the winner
 
 ## 🧠 Technologies
 - **Language** : C++  
