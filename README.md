@@ -7,16 +7,16 @@ A simple console-based game built with C++.
 ### Game Features
 - **Player vs Computer gameplay** – compete directly against the computer.  
 - **Randomized computer choices** – ensures unpredictable outcomes.  
-- **Automatic score tracking** – keeps record of wins, losses, and draws.  
+- **Automatic score tracking**    – keeps record of wins, losses, and draws.  
 
 ### Gameplay Enhancements
-- **Multi-round gameplay** – play best of 5 or unlimited rounds.  
+- **Multi-round gameplay**  – play best of 5 or unlimited rounds.  
 - **Round results display** – shows both player and computer choices each round.  
-- **Winner announcement** – clearly indicates the winner of every round.  
+- **Winner announcement**   – clearly indicates the winner of every round.  
 
 ### Visual Feedback
-- 🟢 **Green** = Player wins.  
-- 🔴 **Red**   = Computer wins.  
+- 🟢 **Green**  = Player wins.  
+- 🔴 **Red**    = Computer wins.  
 - 🟡 **Yellow** = Draw.  
 
 ### End of Game
