@@ -10,7 +10,7 @@ A simple console-based game built with C++.
 - **Automatic score tracking**    – keeps record of wins, losses, and draws.  
 
 ### Gameplay Enhancements
-- **Multi-round gameplay**  – it's by default 1 to 10 and can be changed.  
+- **Multi-round gameplay**  – it's by default from 1 to 10 and can be changed.  
 - **Round results display** – shows both player and computer choices each round.  
 - **Winner announcement**   – clearly indicates the winner of every round.  
 
